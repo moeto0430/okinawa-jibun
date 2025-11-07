@@ -1,0 +1,2 @@
+# okinawa-jibun
+aaa
